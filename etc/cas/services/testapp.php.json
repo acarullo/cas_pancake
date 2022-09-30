@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://localhost/cas-protected/testapp.php",
+  "name" : "testapp.php",
+  "allowed": true,
+  "id" : 2,
+  "evaluationOrder" : 2
+}

@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^https://localhost:8443/beeJEEs-1.0-SNAPSHOT/",
+  "name" : "beeJEEs-1.0-SNAPSHOT",
+  "allowed": true,
+  "id" : 1,
+  "evaluationOrder" : 1
+}
